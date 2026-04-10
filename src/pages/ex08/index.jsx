@@ -85,7 +85,7 @@ function Exercicio8() {
 
                 </div>
 
-                <h4>A situação para sua tempratura é {situ}</h4>
+                <h4>A situação para sua temperatura é {situ}</h4>
 
             </main>
 
